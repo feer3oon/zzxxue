@@ -19,7 +19,7 @@ from .platforms import *
 
 Apple = AppleAPI()
 Carbon = CarbonAPI()
-SoundCloud = SoundAPI()
+Soundcloud = SoundAPI()
 Spotify = SpotifyAPI()
 Resso = RessoAPI()
 Telegram = TeleAPI()
